@@ -1,7 +1,7 @@
 # TAP-GPT  
 **Interpretable Few-Shot Alzheimer’s Disease Prediction on Multimodal Biomedical Data with Tabular LLMs**
 
-This repository contains the camera-ready implementation of **TAP-GPT (Tabular Alzheimer’s Prediction GPT)**, a tabular large language model (LLM) framework for few-shot clinical prediction across multimodal Alzheimer’s disease (AD) datasets.
+This repository contains the implementation of **TAP-GPT (Tabular Alzheimer’s Prediction GPT)**, a tabular large language model (LLM) framework for few-shot clinical prediction across multimodal Alzheimer’s disease (AD) datasets.
 
 TAP-GPT extends pretrained tabular foundation models using parameter-efficient fine-tuning and evaluates robustness across multimodal inputs, missing data settings, interpretability constraints, and multi-agent reasoning scenarios.
 
@@ -9,7 +9,7 @@ This code accompanies the IEEE JBHI manuscript:
 
 > *Tabular Large Language Models for Alzheimer's Disease Prediction with Multimodal Biomedical Data*
 
-Which was originally proposed at ACM-BCB 2025 in the manuscript found at https://doi.org/10.1145/3765612.3767229:
+Which was initially proposed at ACM-BCB 2025 in the manuscript found at https://doi.org/10.1145/3765612.3767229:
 
 > *Enabling Few-Shot Alzheimer’s Disease Diagnosis on Biomarker Data with Tabular LLMs*
 
